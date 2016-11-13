@@ -1,0 +1,25 @@
+{
+  "name": "nytreactsearch",
+  "version": "1.0.0",
+  "description": "Use React components, work with helper functions, and utilize the React mounting lifecycle to query and display articles based on user searches.",
+  "main": "server.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/illynabruin92/nytreactsearch.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongodb",
+    "mongoose"
+  ],
+  "author": "ivetteabruin92",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/illynabruin92/nytreactsearch/issues"
+  },
+  "homepage": "https://github.com/illynabruin92/nytreactsearch#readme"
+}
