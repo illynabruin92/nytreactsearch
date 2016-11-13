@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/illynabruin92/nytreactsearch/issues"
   },
-  "homepage": "https://github.com/illynabruin92/nytreactsearch#readme"
+  "homepage": "https://github.com/illynabruin92/nytreactsearch#readme",
+  "dependencies": {
+    "mongoose": "^4.6.7"
+  }
 }
